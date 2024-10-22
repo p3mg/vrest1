@@ -1,0 +1,830 @@
+@media (max-width: 1024px){
+    .header{
+        height: 56vw;
+    }
+    #img1{
+        position: absolute;
+        width: 100%;
+    }
+    #img2{
+        
+        width: 40vw;
+    }
+    #img3{
+        width: 5%;
+        margin-right: 20%;
+    }
+    #img4{
+        width: 2%;    
+        margin-top: 20vw;
+        margin-left: 48%;
+    }
+    nav{
+        position: relative;
+        /* left: 32%; */
+        text-align: center;
+        background-color: transparent;
+    }
+    .navbar-nav a:hover{
+        font-size: 1.5vw;
+        color: white;
+        text-decoration: underline green;
+    }
+    .container-fluid{
+        text-align: center;
+        padding-right: 30% ;
+        
+    }
+    .navbar-nav a{
+        font-size: 1.5vw;
+        margin-right: 2vw;
+        color: white;
+    }
+    #navmain{
+        margin-left: 10%;
+    }
+    
+    #ww{
+        font-size: 2vw;
+        align-self: center;
+    }
+    #school{
+        color: black;
+        font-size: 1.4vw;
+        margin-top: 2vw;
+        margin-left: 10%;
+    }
+    .wawe{
+        margin-left: 30%;
+        position: absolute;
+        top: 16vw;
+        
+        
+    }
+    /* #mdbt{
+        height: 2vw;
+    } */
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .body{
+        position: absolute;
+        top: 63vw;
+    
+    }
+    .body1{
+        height: 45vw;
+    }
+    .title1{
+        margin-left: 18%;
+    }
+    .title1 p:last-child{
+        position: absolute;
+        transform: rotate(45deg);
+        margin-left: 55%;
+        margin-top: -4vw;
+        width: 0.2vw;
+        height: 3vw;
+        background-color: #00B2A0;
+        color: #00B2A0;
+        
+    }
+    .title1 p:first-child{
+        font-family: "Raleway";
+        color: #01353E;
+        font-size: 2.4vw;
+        margin-left: 14%;
+        font-weight: 500;
+        width: 60%;
+    
+    }
+    .flex1{
+        margin-left: 20%;
+        margin-top: 5vw;
+        display: flex;
+        flex-direction: row;
+    }
+    .flex1 div{
+        display: block;
+        justify-content: space-between;
+    
+    }
+    .flex1 p{
+        font-weight: 300;
+        font-size: 0.8vw;
+        width: 55%;
+        height: 6vw;
+    }
+    
+    
+    .body2{
+        margin-top: 8vw;
+        background-color: #F8F8F8;
+        height: 55vw;
+        
+    }
+    .title2{
+        margin-left: 18%;
+        position: relative;
+        top: 8vw;
+    
+    }
+    .title2 p:last-child{
+        position: absolute;
+        transform: rotate(45deg);
+        margin-left: 60%;
+        margin-top: -4vw;
+        width: 0.2vw;
+        height: 3vw;
+        background-color: #00B2A0;
+        color: #00B2A0;
+        
+    }
+    .title2 p:first-child{
+        font-family: "Raleway";
+        color: #01353E;
+        font-size: 2.4vw;
+        margin-left: 23%;
+        font-weight: 500;
+        width: 60%;
+    
+    }
+    .sch{
+        display: flex;
+        margin-top: 16vw;
+        margin-left: 13%;
+        width: 70%;
+    }
+    .sch1 img{
+        width: 50%;
+        margin-left: 30%;
+    }
+    .sch2 img{
+        width: 50%;
+        margin-left: 30%;
+    }
+    .sch3 img{
+        width: 50%;
+        margin-left: 30%;
+    }
+    .sch1 p{
+        margin-top: 1vw;
+        font-weight: 300;
+        font-size: 0.8vw;
+        width: 80%;
+        height: 7vw;
+        margin-left: 6vw;
+    }
+    .sch2 p{
+        margin-top: 1vw;
+        font-weight: 300;
+        font-size: 0.8vw;
+        width: 100%;
+        height: 7vw;
+        margin-left: 4vw;
+    }
+    .sch3 p{
+        margin-top: 1vw;
+        font-weight: 300;
+        font-size: 0.8vw;
+        width: 80%;
+        height: 7vw;
+        margin-left: 6vw;
+    }
+    
+    .w{
+        margin-top: 2vw;
+        display: flex;
+        flex-direction: row;
+        width: 80%;
+        margin-left: 13%;
+    }
+    .w1{
+        margin-left: 6vw;
+    }
+    #w11{
+        width: 17vw;
+        margin-top: 1vw;
+    }
+    #w12{
+        margin-top: 1vw;
+        width: 19vw;
+    }
+    #w13{
+        margin-top: 1vw;
+        width: 21vw;
+    }
+    .w2 p{
+        margin-top: 1vw;
+        font-weight: 300;
+        font-size: 0.8vw;
+        width: 70%;
+        height: 4vw;
+        margin-left: 6vw;
+    }
+    
+    
+    
+    .body3{
+        
+        height: 55vw;
+        
+    }
+    .title3{
+        
+        position: relative;
+        top: 6vw;
+    
+    }
+    .title3 p:last-child{
+        position: absolute;
+        transform: rotate(45deg);
+        margin-left: 46%;
+        margin-top: -4vw;
+        width: 0.2vw;
+        height: 3vw;
+        background-color: #00B2A0;
+        color: #00B2A0;
+        
+    }
+    .title3 p:first-child{
+        font-family: "Raleway";
+        color: #01353E;
+        font-size: 2.4vw;
+        margin-left: 19%;
+        font-weight: 500;
+        width: 60%;
+    
+    }
+    #img5{
+        width:50% ;
+        margin-left: 50%;
+        margin-top: -4.7vw;
+    }
+    .text1{
+        position: absolute;
+        margin-left: 19%;
+        margin-top:10vw ;
+        width: 30%;
+        display: block;
+        justify-content: space-between;
+    }
+    .text1 p{
+        font-weight: 300;
+        font-size: 0.8vw;
+        width: 92%;
+        height: 8vw;
+    }
+    
+    
+    
+    
+    
+    .body4{
+        
+        height: 155vw;
+        
+    }
+    .title4{
+        width: 80%;
+        position: relative;
+        
+    
+    }
+    .title4 p:last-child{
+        position: absolute;
+        transform: rotate(45deg);
+        margin-left: 73%;
+        margin-top: -4vw;
+        width: 0.2vw;
+        height: 3vw;
+        background-color: #00B2A0;
+        color: #00B2A0;
+        
+    }
+    .title4 p:first-child{
+        font-family: "Raleway";
+        color: #01353E;
+        font-size: 2.4vw;
+        margin-left: 58%;
+        font-weight: 500;
+        width: 60%;
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    .tabi{
+        margin-top: 5vw;
+        margin-left: 19%;
+    
+    }
+    .tab-content{
+        margin-left: 19%;
+    }
+    .tabi button{
+        color: black;
+        border: none;
+        text-decoration: none;
+    }
+    .tabi button:hover{
+        border: none;
+        text-decoration: none;
+        color: rgb(0, 204, 0);
+    }
+    .tabi button:active{
+        border: none;
+        text-decoration: none;
+        color: rgb(0, 204, 0);
+    }
+    .nav{
+        border: none;
+    }
+    
+    
+    #nav-home-tab{
+        border: none;
+        background-color: transparent;
+    }
+    #nav-profile-tab{
+        border: none;
+        background-color: transparent;
+    }
+    #nav-contact-tab{
+        border: none;
+        background-color: transparent;
+    }
+    #nav-cont-tab{
+        border: none;
+        background-color: transparent;
+    }
+    #nav-home{
+        height: 20vw;
+    }
+    .grid{
+        max-width: 670px;
+        flex-wrap: wrap;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .grid1{
+        max-width: 670px;
+        flex-wrap: wrap;
+        display: flex;
+        flex-direction: row;
+    }
+    .grid2{
+        max-width: 670px;
+        flex-wrap: wrap;
+        display: flex;
+        flex-direction: row;
+    }
+    #imgg1{
+        margin: 1%;
+        width: 64vw;
+        height: 1%;
+    }
+    #imgg2{
+        margin: 1%;
+        width: 33.6vw;
+        height: 1%;
+    }
+    #imgg3{
+        margin: 1%;
+        width: 29vw;
+        height: 1%;
+        
+    }
+    
+    
+    
+    
+    
+    .body5{
+        background-color: #F8F8F8;
+        height: 15vw;
+        
+    }
+    .title5{
+        
+        width: 95%;
+        position: absolute;
+        
+    
+    }
+    .title5 p:last-child{
+        font-style: italic;
+        position: absolute;
+        margin-left: 57%;
+        margin-top: -1vw;
+        width:30%;
+        height: 3vw;
+        color: #737373;
+        
+    }
+    .title5 p:first-child{
+        font-style: italic;
+        margin-top: 6vw;
+        color: #01353E;
+        font-size: 2.4vw;
+        margin-left: 32%;
+        font-weight: 400;
+        width: 60%;
+    
+    }
+    
+    
+    
+    
+    .body6{
+        height: 55vw;
+    }
+    .text2{
+        margin-top: 10vw;
+        margin-left: 26%;
+        width: 50%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .txt1{
+        width: 80px;
+        text-align: center;
+    }
+    #img6{
+        width: 65%;
+        height: 50%;
+        margin-left: 19%;
+        margin-top: 15vw;
+    }
+    .txt1 p:first-child{
+        font-size: 40px;
+        font-weight:600 ;
+        color: #01353E;
+    }
+    .txt1 p:last-child{
+        font-size:10px ;
+        font-weight: 300;
+    }
+    
+    
+    
+    
+    
+    .body7{
+        height: 55vw;
+        
+    }
+    .title6{
+        width: 80%;
+        position: relative;
+        top: 20vw;
+    
+    }
+    .title6 p:last-child{
+        position: absolute;
+        transform: rotate(45deg);
+        margin-left: 68%;
+        margin-top: -4vw;
+        width: 0.2vw;
+        height: 3vw;
+        background-color: #00B2A0;
+        color: #00B2A0;
+        
+    }
+    .title6 p:first-child{
+        font-family: "Raleway";
+        color: #01353E;
+        font-size: 2.4vw;
+        margin-left: 60%;
+        font-weight: 500;
+        width: 60%;
+    
+    }
+    
+    
+    .carousel{
+        margin-top: 30VW;
+    }
+    
+    .carousel-item{
+        width: 100%;
+    }
+    #bt1{
+        margin: 2%;
+        width: 2%;
+        height: 1.4vw;
+        border-radius: 100%;
+    }
+    #bt1:active{
+        margin: 2%;
+        width: 2%;
+        height: 1.4vw;
+        border-radius: 100%;
+        /* background-color: #00B2A0; */
+    }
+    #bt2{
+        margin: 2%;
+        width: 2%;
+        height: 1.4vw;
+        border-radius: 100%;
+    }
+    #bt3{
+        margin: 2%;
+        width: 2%;
+        height: 1.4vw;
+        border-radius: 100%;
+    }
+
+
+
+
+
+
+    .body8{
+        height: 65vw;
+        
+    }
+    .title7{
+        width: 90%;
+        position: relative;
+        top: 30vw;
+    
+    }
+    .title7 p:last-child{
+        position: absolute;
+        transform: rotate(45deg);
+        margin-left: 70%;
+        margin-top: -4vw;
+        width: 0.2vw;
+        height: 3vw;
+        background-color: #00B2A0;
+        color: #00B2A0;
+        
+    }
+    .title7 p:first-child{
+        font-family: "Raleway";
+        color: #01353E;
+        font-size: 2.4vw;
+        margin-left: 46%;
+        font-weight: 500;
+        width: 60%;
+    
+    }
+    
+    .team{
+        margin-top: 40vw;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 70%;
+        margin-left: 16%;
+    }
+    .team img{
+        max-width: 20vw;
+        width: 100%;
+        height: 340px;
+        max-height: 30vw;
+        /* height: 70%; */
+    }
+    .team p{
+        margin-top:1vw;
+        text-align: center;
+        font-weight: 900;
+        font-size: 16px;
+    }
+    
+    .team p:last-child{
+        margin-top:-1vw;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    
+    
+    
+    
+    
+    
+    .body9{
+        margin-top: 20vw;
+        height: 55vw;
+        background-color: #F8F8F8;
+        
+    }
+    .title8{
+        width: 90%;
+        position: relative;
+        top: 10vw;
+    
+    }
+    .title8 p:last-child{
+        position: absolute;
+        transform: rotate(45deg);
+        margin-left: 68%;
+        margin-top: -4vw;
+        width: 0.2vw;
+        height: 3vw;
+        background-color: #00B2A0;
+        color: #00B2A0;
+        
+    }
+    .title8 p:first-child{
+        font-family: "Raleway";
+        color: #01353E;
+        font-size: 2.4vw;
+        margin-left: 47%;
+        font-weight: 500;
+        width: 60%;
+    
+    }
+    .paket{
+        margin-left: 18%;
+        margin-top: 20vw;
+        width: 65%;
+        /* height: 30vw; */
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .paket1{
+        background-color: rgb(255, 255, 255);
+        padding: 2vw;
+        height: 30vw;
+    }
+    #p1{
+        text-align: center;
+        color: #01353E;
+        font-size: 2.2vw;
+    }
+    #p2{
+        text-align: center;
+        color: #01353E;
+        font-size: 2.2vw;
+    }
+    .pakp{
+        height: 19vw;
+    }
+    .pakp p{
+        font-size: 0.8vw;
+        margin-bottom: 1vw;
+        
+    }
+    
+    
+    
+    
+    
+    
+    .body9{
+        margin-top: 20vw;
+        height: 55vw;
+    }
+    #map{
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 10vw;
+    }
+    
+    
+    
+    
+    
+    .body11{
+        margin-top: 20vw;
+        height: 70vw;
+        max-height: 650px;
+       
+        
+        
+        
+    }
+    .title9{
+        width: 90%;
+        position: relative;
+        
+    
+    }
+    .title9 p:last-child{
+        position: absolute;
+        transform: rotate(45deg);
+        margin-left: 70%;
+        margin-top: -4vw;
+        width: 0.2vw;
+        height: 3vw;
+        background-color: #00B2A0;
+        color: #00B2A0;
+        
+    }
+    .title9 p:first-child{
+        font-family: "Raleway";
+        color: #01353E;
+        font-size: 2.4vw;
+        margin-left: 44%;
+        font-weight: 500;
+        width: 60%;
+    
+    }
+    
+    
+    .dv1{
+        width: 70vw;
+        margin-left: 19%;
+        margin-top: 10vw;
+        display: flex;
+        flex-direction: row;
+    }
+    .forma{
+        height: 400px;
+        width: 500px;
+    }
+    form{
+        max-width: 400px;
+        width: 30vw;
+        height: 400px;
+    }
+    form .col-12 button{
+        color: black;
+        background-color: white;
+        border-radius: 0%;
+        width: 200px;
+        height: 50px;
+        margin-top: 3.5vw;
+    }
+    .form-control{
+        width: 30vw;
+        border: none;
+        border-bottom: 0.1vw solid gray;
+        border-radius: 0%;
+        margin-bottom: 1vw;
+    }
+    .form-label{
+        color: #00B2A0;
+        font-weight: 500;
+        font-size: 12px;
+        width: 180px;
+    }
+    .input-group{
+        width: 30vw;
+        border: none;
+        border-radius: 0%;
+        margin-bottom: 1vw;   
+    }
+    
+    .kont{
+        width: 420px;
+        height: 400px;
+        background-color: #F8F8F8;
+    }
+    .kont p{
+        font-size: 16px;
+        padding: 20px;
+        padding-left: 30px;
+    }
+    
+    .seti{
+        margin-left: 35%;
+        width: 32%;
+        max-width: 300px;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row;
+    }
+    .seti a{
+        color: black;
+        text-decoration: none;
+        margin-top: 8vw;
+    }
+    .seti a:hover{
+        color:#00B2A0;
+        text-decoration: none;
+    }
+    .footer{
+        margin-top: 10vw;
+        display: flex;
+        justify-content: center;
+        height: 10vw;
+        background-color: #00B2A0;
+        align-items: center;
+    }
+    .footer img{
+        width: 4%;
+        height: 40%;
+    }
+    
+}
